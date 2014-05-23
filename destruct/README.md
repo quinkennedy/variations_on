@@ -1,0 +1,4 @@
+This series explores the eroding effects of repeated change. In glitch art, artists tend to attack an image much like a small amount of dynamite may be used to disrupt a cliff face. Drastic, immediate change is achieved with comparatively small changes to the raw bit content of the images. In contrast, my explorations here enact rather ordinary, unnoticeable changes using common image manipulation software. The additive buildup of these changes over hundreds or thousands of iterations visually exposes the processes of these digital manipulation systems.
+
+####Technical notes
+The scripts are developed on OSX 10.7.5. One uses Photoshop, the other uses a software called Seashore. The Photoshop script relies on [cliclick](http://www.bluem.net/en/mac/cliclick/), and probably the fact that my screen resolution is 1440x900.
